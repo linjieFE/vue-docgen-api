@@ -1,0 +1,3 @@
+[submodule "basic/src/components"]
+	path = basic/src/components
+	url = https://github.com/linjieFE/components.git
